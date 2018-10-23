@@ -11,5 +11,5 @@ export const fetchWeather = async (locationId) => {
     const weatherInfo = await response.json()
     const { the_temp, weather_state_name } = weatherInfo.consolidated_weather[0]
     const { title } = weatherInfo
-    return { temperature: the_temp, weather: weather_state_name, city: title}
+    return { temperature: the_temp, weather: weather_state_name, location: title}
 }
