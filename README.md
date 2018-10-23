@@ -1,6 +1,6 @@
 # Weather Project
 
-- This is a mobile application, build with ReactJS. 
+- This is a mobile application, build with React Native. 
 - Users will be able to search a city's weather.
 
 
