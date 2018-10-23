@@ -6,9 +6,8 @@
 
 # App Screenshot
 
-![](utils/icons/1.png)
-
-![](utils/icons/2.png)
+<img src='utils/1.png' width='300'>
+<img src='utils/2.png' width='300'>
 
 
 # Installation Instructions
